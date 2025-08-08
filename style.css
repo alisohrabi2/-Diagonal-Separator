@@ -39,3 +39,11 @@ h1 {
 p {
     font-size: 3vw;
 }
+
+.separator {
+    width: 0;
+    height: 0;
+    border-right: 100vw solid transparent;
+    border-bottom: 13.9vw solid white;
+    margin-top: -13.9vw;
+}
